@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/158145233?s=400&u=b5f091ad0cc3807c29737e28f93de846b3c3c664&v=4"  />
+<img align="right" height="150" src="yuting.png"  />
 
 ###
 
