@@ -20,10 +20,12 @@
 <p align="left">
 </p>
 <div>
-  <p>Hey there! I'm a 13-year-old high school student who loves teaching myself how to code.
-    I know my way around HTML and CSS pretty well, and I'm getting the hang of JavaScript and Python.
+  <p>Hey there! I'm a 13-year-old high school student who likes coding. I'm also relatively proficient at writing (in English, of course).  
+    I mostly do web development but I'm also interested in game development (I use Godot btw) and software. 
+    I know my way around HTML and CSS pretty well, and I'm getting the hang of JavaScript and Python. 
     Right now, I'm diving into React for the front end and learning about Node.js for the backend.
   </p>
+</div>
   <p>
     Check out <a href="https://wyuting0.github.io/">my personal website</a> to find out more about me.
   </p>
