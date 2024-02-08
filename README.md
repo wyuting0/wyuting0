@@ -50,6 +50,10 @@
 
 ###
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyuting0&show_icons=true&locale=en&layout=compact" alt="wyuting0" /></p>
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/channel/UC48LBWY0YuhNTqKClBx3MGg"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="https://www.instagram.com/yuting10101/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
