@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Yuting.</h2>
+<h2 align="left">Hi! My name is Yuting :)</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React** and **Node.js**.
 
-- 💬 Ask me about **CSS**. It's the only thing i'm decent at lol
+- 💪 I'm proficient at **C**.
 
 - 📧 Email me at **wyuting2011@gmail.com**.
 
