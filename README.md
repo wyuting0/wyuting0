@@ -23,7 +23,6 @@
   <p>Hey there! I'm a 13-year-old high school student who likes coding. I'm also relatively proficient at writing (in English, of course).  
     I mostly do web development but I'm also interested in game development (I use Godot btw) and software. 
     I know my way around HTML and CSS pretty well, and I'm getting the hang of JavaScript and Python. 
-    By the way, in case you're curious about why Java tops the list of languages I use the most, it's simply because of its extensive syntax, lol.
   </p>
 </div>
   <p>
