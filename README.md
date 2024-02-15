@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React** and **Node.js**.
 
-- 🌐 I mainly do **web development**.
+- 🌐 I am a **web developer**.
 
 - 📧 Email me at **wyuting2011@gmail.com**.
 
