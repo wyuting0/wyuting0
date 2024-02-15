@@ -26,7 +26,7 @@
   </p>
 </div>
   <p>
-    Check out <a href="https://wyuting0.github.io/">my personal website</a> to find out more about me.
+    Check out <a href="https://yuting.is-a.dev/">my personal website</a> to find out more about me.
   </p>
 </div>
 
