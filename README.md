@@ -12,10 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="yuting.png"  />
-
-###
-
 <h3 align="left">Who am I?</h3>
 <p align="left">
 </p>
