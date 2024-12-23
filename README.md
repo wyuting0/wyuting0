@@ -8,7 +8,7 @@
 
 - 🌐 I am a **web developer**.
 
-- 📧 Email me at **wyuting2011@gmail.com**.
+- 📧 Email me at **contact.yuting@gmail.com**.
 
 ###
 
@@ -22,7 +22,7 @@
   </p>
 </div>
   <p>
-    Check out <a href="https://yuting.is-a.dev/">my personal website</a> to find out more about me.
+    Check out <a href="https://yuting.is-amaz.ing/">my personal website</a> to find out more about me.
   </p>
 </div>
 
@@ -48,13 +48,3 @@
 ###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyuting0&show_icons=true&locale=en&layout=compact" alt="wyuting0" /></p>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC48LBWY0YuhNTqKClBx3MGg"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://www.instagram.com/yuting10101/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="mailto:wyuting2011@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-</div>
-
-###
