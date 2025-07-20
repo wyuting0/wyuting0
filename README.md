@@ -16,10 +16,9 @@
 <p align="left">
 </p>
 <div>
-  <p>Hey there! I'm a 13-year-old high school student who likes coding. I'm also relatively proficient at writing.  
-    I mostly do web development but I'm also trying to learn game and software development. 
-    I don't code much now, won't be too active around here.
-  </p>
+  <p>Hey there! I'm a 14-year-old high school student who likes coding.</p>
+  <p>I mostly do web development but I'm also trying to learn game and software development.</p>
+  <p>I don't code much now, won't be too active around here.</p>
 </div>
   <p>
     Check out <a href="https://yuting.is-amaz.ing/">my personal website</a> to find out more about me.
