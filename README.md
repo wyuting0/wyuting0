@@ -18,7 +18,7 @@
 <div>
   <p>Hey there! I'm a 13-year-old high school student who likes coding. I'm also relatively proficient at writing.  
     I mostly do web development but I'm also trying to learn game and software development. 
-    Recently lost interest in coding 😞, won't be too active around here.
+    I don't code much now, won't be too active around here.
   </p>
 </div>
   <p>
