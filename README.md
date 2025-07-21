@@ -2,7 +2,7 @@
 
 ###
 
-- 🔭 I’m currently working on a **to-do list app** for my portfolio.
+- 🔭 I’m currently working on **nothing**.
 
 - 🌱 I’m currently learning **React** and **Node.js**.
 
