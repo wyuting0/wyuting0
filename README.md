@@ -8,7 +8,7 @@
 
 - 🌐 I am a **web developer**.
 
-- 📧 Email me at **wyuting2011@gmail.com**.
+- 📧 Email me at **yuting@duck.com**.
 
 ###
 
