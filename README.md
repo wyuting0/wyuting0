@@ -21,7 +21,7 @@
   <p>I don't code much now, won't be too active around here.</p>
 </div>
   <p>
-    Check out <a href="https://yuting.is-not-a.dev/">my personal website</a> to find out more about me.
+    Check out <a href="https://yuting.is-a.dev/">my personal website</a> to find out more about me.
   </p>
 </div>
 
